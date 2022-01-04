@@ -1,9 +1,9 @@
 # Single-Cycle-MIPS32
 
-## INTRO
-- Designed a synthesizable microprocessor MIPS32 in VHDL and implemented it with single-cycle architecture.
-- Translated block diagrams into RTL codes.
-- Created design was functionally and behaviorally simulated in Quartus, Modelsim, and Vivado.
+## Checklists
+- Design a synthesizable microprocessor MIPS32 in VHDL and implemented it with single-cycle architecture.
+- Translate block diagrams into RTL codes.
+- Create design was functionally and behaviorally simulated in Quartus, Modelsim, and Vivado.
 
 ## ALERT
 Should you intend to use all the RTL codes, please do not forget to cite the author as:
