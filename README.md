@@ -9,7 +9,9 @@
 Should you intend to use all the RTL codes, please do not forget to cite the author as:
 
 
-` -- This project was originally created by Christian Reivan, Bandung Institute of Technology.  
-  -- Created on 11/25/2021.  
-  -- I, hereby, declare that this RTL code is not used for any illegal or prohibited use.  
+` -- This project was originally created by Christian Reivan, Bandung Institute of Technology.   
+-- Created on 11/25/2021.   
+-- I, hereby, declare that this RTL code is not used for any illegal or prohibited use.   
 `
+
+
