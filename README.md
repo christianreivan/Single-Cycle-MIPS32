@@ -1,9 +1,9 @@
 # Single-Cycle-MIPS32
 
 ## Checklists
-- Design a synthesizable microprocessor MIPS32 in VHDL and implement it with single-cycle architecture.
-- Translate block diagrams into RTL codes.
+- Designed a synthesizable microprocessor MIPS32 in VHDL and implement it with single-cycle architecture.
+- Translated block diagrams into RTL codes.
 - Design was functionally and behaviorally verified in Quartus, Modelsim, and Vivado.   
-- Created on 11/25/2021.
+- Created on 2021/11/25.
 
 
